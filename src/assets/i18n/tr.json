@@ -1,0 +1,268 @@
+{
+    "NislabLong": "Ağ ve Bilgi Güvenliği Laboratuvarı",
+    "GetInTouch": "İletişime Geçin",
+    "Specializations": "Uzmanlık Alanları",
+    "Description": "Bu web sayfası Gebze Teknik Üniversitesi bünyesindeki Ağ ve Bilgi Güvenliği Laboratuvarı için tasarlanmıştır.",
+    "ProjectType": "Proje Tipi",
+    "ProjectSupporter": "Sponsor",
+    "ThesisType": "Tez Tipi",
+    "ThesisPreparedBy": "Hazırlayan",
+    "ThesisAdvisor": "Danışman",
+    "ThesisLang": "Dil",
+    "ThesisAbstract": "Özet",
+    "webpage": "Web sayfası",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "address": "Adres",
+    "gtuaddress": "Gebze Teknik Üniversitesi, Bilgisayar Mühendisliği Bölüm Binası. Kat: 1, No: 122. Cumhuriyet Mah. 2254 Sk. Gebze/Kocaeli",
+
+
+    "Header.Item1" : "Hakkında",
+    "Header.Item2" : "Araştırma Alanları",
+    "Header.Item3" : "Topluluk",
+    "Header.Item4" : "Projeler",
+    "Header.Item5" : "Yayınlar",
+    "Header.Item6" : "Tezler",
+    "Header.Item7" : "İletişim",
+
+    "about.Title": "Hakkında",
+    "about.Paragraphs": [
+        "Gebze Teknik Üniversitesi Ağ ve Bilgi Güvenliği Laboratuvarı’nın amaçları şunlardır:"
+    ],
+    "about.Missions1": "Güncel ağ ve bilgi güvenliği problemlerine çözümler üretmek ve bu çözümleri uygulamak",
+    "about.Missions2": "Lisans düzeyindeki öğrencilere ağ ve bilgi güvenliği alanında eğitim-öğretim vermek",
+    "about.Missions3": "Lisansüstü düzeydeki öğrencilerin ağ ve bilgi güvenliği alanındaki araştırmalarını desteklemek",
+    "about.Missions4": "Siber güvenlik alanında yapılmakta olan lisans bitirme projeleri ve lisansüstü tez çalışmalarının bilgi ve kaynak ihtiyacını karşılamak",
+    "about.Missions5": "Siber güvenlik alanında araştırma projeleri gerçekleştirmek",
+
+    "ResearchAreas.Title": "Araştırma Alanları",
+    "ResearchAreas.Info": "Ağ ve Bilgi Güvenliği Laboratuvarı'nda üzerine araştırma yapılan konular şunlardır:",
+    "ResearchAreas.Area1": "Bilgi güvenliği yönetim ve uygulama desteği",
+    "ResearchAreas.Area2": "Bulut bilişimde güvenlik araştırmaları",
+    "ResearchAreas.Area3": "Sosyal ağlarda güvenlik uygulamaları",
+    "ResearchAreas.Area4": "Nesnelerin internetinde güvenlik uygulamaları",
+    "ResearchAreas.Area5": "Sayısal imza araştırmaları ve uygulamaları",
+    "ResearchAreas.Area6": "Kablolu ve kablosuz ağlarda güvenlik uygulamaları",
+    "ResearchAreas.Area7": "Biyometrik güvenlik uygulamaları",
+    "ResearchAreas.Area8": "Zararlı yazılım analiz ve tespit uygulamaları",
+    "ResearchAreas.Area9": "Saldırı tespit uygulamaları",
+    "ResearchAreas.Area10": "Zafiyet tarama uygulamaları",
+    "ResearchAreas.Area11": "Kriptoloji tabanlı güvenlik uygulamaları",
+
+    
+
+
+    "People.Title": "Topluluk",
+    "People.List": [{
+            "tab": "Prof. Dr. İbrahim SOĞUKPINAR",
+            "Name": "Prof. Dr. İbrahim SOĞUKPINAR",
+            "Role": "Danışman",
+            "Specializations": "Ağ ve Bilgi Güvenliği, Siber Güvenlik, Bilgisayar Ağları, IT Uygulamaları",
+            "WebPage": "https://www.gtu.edu.tr/tr/personel/98/1041/display.aspx",
+            "EmailLink": "mailto:ispinar@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052211",
+            "Email": "ispinar@gtu.edu.tr",
+            "Phone": "+90 262 605 22 11",
+            "Image": "/assets/images/ispinar.png"
+        },
+        {
+            "tab": "Arş. Gör. Neslihan Bengisu ÇOLAK",
+            "Name": "Arş. Gör. Neslihan Bengisu ÇOLAK",
+            "Role": "Yüksek Lisans Öğrencisi",
+            "Specializations": "Siber Güvenlik, Bilgi ve Ağ Güvenliği",
+            "WebPage": "https://www.gtu.edu.tr/tr/personel/98/63486814/display.aspx",
+            "EmailLink": "mailto:n.colak2023@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052232",
+            "Email": "n.colak2023@gtu.edu.tr",
+            "Phone": "+90 262 605 22 32",
+            "Image": "/assets/images/unknown.jpg"
+        },
+        {
+            "tab": "Arş. Gör.  Sibel GÜLMEZ",
+            "Name": "Arş. Gör.  Sibel GÜLMEZ",
+            "Role": "Doktora Öğrencisi",
+            "Specializations": "Siber Güvenlik, Kod Analizi, Zararlı Yazılım Analizi, Zararlı Yazılım Tespiti, Fidye Yazılım Tespiti",
+            "WebPage": "https://www.gtu.edu.tr/tr/personel/98/57264126/display.aspx",
+            "EmailLink": "mailto:sgulmez2018@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052232",
+            "Email": "sgulmez2018@gtu.edu.tr",
+            "Phone": "+90 262 605 22 32",
+            "Image": "/assets/images/sibelgulmez.jpeg"
+        },
+        {
+            "tab": "Arş. Gör.  Şeydanur AHİ DUMAN",
+            "Name": "Arş. Gör.  Şeydanur AHİ DUMAN",
+            "Role": "Doktora Öğrencisi",
+            "Specializations": "Siber Güvenlik, Bilgi ve Ağ Güvenliği, Zararlı Yazılım Tespiti, Derin Öğrenme",
+            "WebPage": "https://www.gtu.edu.tr/tr/personel/2294/67473847/display.aspx",
+            "EmailLink": "mailto:seydanurahi@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052426",
+            "Email": "seydanurahi@gtu.edu.tr",
+            "Phone": "+90 262 605 24 26",
+            "Image": "/assets/images/seydanurahiduman.jpg"
+        },
+        {
+            "tab": "Eski Çalışanlar",
+            "Formers": [
+                "Arş. Gör. Cem AYAR",
+                "Arş. Gör. Mert NAR",
+                "Arş. Gör. Arzu KAKIŞIM",
+                "Arş. Gör. Necmettin ÇARKACI",
+                "Dr. Hidayet TAKÇI",
+                "Arş. Gör. Türker AKYÜZ",
+                "Arş. Gör. Alper UĞUR",
+                "Arş. Gör. Rahim KARABAĞ",
+                "YL Öğrencisi Fatma ÖZDEN AKTAŞ"
+            ]
+        }
+    ],
+
+
+
+
+    "Projects.Title": "Projeler",
+    "Projects.List": [
+        {
+            "Title": "Çok Amaçlı Zararlı Yazılım Tespit ve Önleme Yöntemi Geliştirilmesi",
+            "Description": "Metamorfik zararlı yazılımları ve fidye yazılımları da tespit edebilen yeni ve özgün bir zararlı yazılım tespit yönteminin geliştirilmesi ve ürün haline getirilmesi.",
+            "Dates": "Ekim 2022 - Şubat 2025",
+            "Type": "Bilimsel Araştırma Projesi (ID: 2022-A-113-03)",
+            "Supporter": "Gebze Teknik Üniversitesi",
+            "link": "/projects/ransomware",
+            "Keywords": ["fidye yazılım", "metamorfik zararlı yazılım", "zararlı yazılım tespiti", "antivirüs"]
+        },
+        {
+            "Title": "Hiyerarşik Yetkilendirme Modeli Kullanılarak Elektronik İmza Tasarımı ve Modelin Akıllı Kart Sistemleri Üzerinde Uygulaması",
+            "Description": "Yeni ve özgün bir zararlı yazılım tespit yönteminin geliştirilmesi ve ürün haline getirilmesi.",
+            "Dates": "Ekim 2017 - Ekim 2019",
+            "Type": "Tübitak 1003 (ID: 116E539)",
+            "Supporter": "Tübitak",
+            "link": "/projects/metamorphic",
+            "Keywords": ["metamorfik zararlı yazılım", "zararlı yazılım tespiti", "antivirüs"]
+        },
+        {
+            "Title": "H-Yetkim: Hiyerarşik Yetkili İmza Modeli Tasarlanması Ve Eşleme Tabanlı Kriptografi Ile Akıllı Kartlar Üzerinde Gerçeklenmesi",
+            "Description": "Hiyerarşik yetkilendirme modeliyle elektronik imza tasarlama: H-Yetkim.",
+            "Dates": "Kasım 2008 - Kasım 2010",
+            "Type": "Tübitak 1001 (ID: 108E132)",
+            "Supporter": "Tübitak",
+            "link": "/projects/ransomware",
+            "Keywords": ["H-Yetkim", "elektronik imza", "akıllı kart", "yetkilendirme"]
+        },
+        {
+            "Title": "Kurumsal bilgi güvenliğinde stadartlara uyumlu bilgi güvenliği yönetim sistemi tasarımı ve GYTE’de bir vaka çalışması",
+            "Description": "ISO/IEC 17799 ve ISO/IEC 27001 standartlarına uygun, pratik ve kolay bir Kurumsal Bilgi Güvenliği yönetim Sisteminin tasarlanması.",
+            "Dates": "2007 - 2009",
+            "Type": "Bilimsel Araştırma Projesi (ID: 2007-A-19)",
+            "Supporter": "Gebze Teknik Üniversitesi",
+            "link": "/projects/gitisms",
+            "Keywords": ["bilgi güvenliği yönetimi", "iso standartları", "bgy"]
+        }
+    ],
+
+
+    "publications.Title": "Yayınlar",
+    "publications.Explanation": "Son 5 yılda yayınlanan akademik makaleler aşağıda listelenmiştir.",
+    "publications.List": [
+        {
+            "tab": "2024",
+            "papers": [
+                "Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2024). XRan: Explainable deep learning-based ransomware detection using dynamic analysis. Computers & Security, 139, 103703."
+            ]
+        },
+        {
+            "tab": "2023",
+            "papers": [
+                "Gulmez, S., Duman, A., Duman, S. A., & Sogukpinar, I. (2023, September). Log Mining-based Online Failure Prediction in Client-Server Architecture. In 2023 8th International Conference on Computer Science and Engineering (UBMK) (pp. 492-497). IEEE.",
+                "Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2023, May). Analysis of the Dynamic Features on Ransomware Detection Using Deep Learning-based Methods. In 2023 11th International Symposium on Digital Forensics and Security (ISDFS) (pp. 1-6). IEEE."
+            ]
+        },
+        {
+            "tab": "2022",
+            "papers": [
+                "Kakisim, A. G., Gulmez, S., & Sogukpinar, I. (2022). Sequential opcode embedding-based malware detection method. Computers & Electrical Engineering, 98, 107703."
+            ]
+        },
+        {
+            "tab": "2021",
+            "papers": [
+                "Gülmez, S., & Sogukpinar, I. (2021, June). Graph-based malware detection using opcode sequences. In 2021 9th International Symposium on Digital Forensics and Security (ISDFS) (pp. 1-5). IEEE."
+            ]
+        },
+        {
+            "tab": "2020",
+            "papers": [
+                "Şeydanur, A. H. İ., & SOĞUKPINAR, İ. (2020). Derin Öğrenme Modelleri ile Kimlik Avı E-posta Tespiti. Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi, 13(2), 17-31.",
+                "Kakisim, A. G., Nar, M., & Sogukpinar, I. (2020). Metamorphic malware identification using engine-specific patterns based on co-opcode graphs. Computer Standards & Interfaces, 71, 103443."
+            ]
+        },
+        {
+            "tab": "2019",
+            "papers": [
+                "Mert, N. A. R., & SOĞUKPINAR, İ. (2019). Melez Özelliklerin Modellenmesi ile Zararlı Yazılım Tespiti. Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi, 12(2), 50-63.",
+                "Nar, M., Kakisim, A. G., Yavuz, M. N., & Soğukpinar, İ. (2019, September). Analysis and comparison of disassemblers for opcode based malware analysis. In 2019 4th International Conference on Computer Science and Engineering (UBMK) (pp. 17-22). IEEE.",
+                "Kakisim, A. G., & Sogukpinar, I. (2019). Unsupervised binary feature construction method for networked data. Expert Systems with Applications, 121, 256-265.",
+                "Kakisim, A. G., Nar, M., Carkaci, N., & Sogukpinar, I. (2019). Analysis and evaluation of dynamic feature-based malware detection methods. In Innovative Security Solutions for Information Technology and Communications: 11th International Conference, SecITC 2018, Bucharest, Romania, November 8–9, 2018, Revised Selected Papers 11 (pp. 247-258). Springer International Publishing."
+            ]
+        }
+    ],
+  
+    
+    "theses.Title": "Tezler",
+    "theses.Explanation": "Son 5 yılda yazılan tezler aşağıda listelenmiştir.",
+    "theses.List": [
+        {
+            "title": "İşlem kodu analizi ile çizge tabanlı zararlı yazılım tespiti",
+            "student": "Sibel GÜLMEZ",
+            "advisor": "İbrahim SOĞUKPINAR",
+            "year": "2021",
+            "language": "Türkçe",
+            "type": "Yüksek Lisans Tezi",
+            "abstract": "Teknolojinin hızlı ilerleyişi ve sanallaşmanın artmasıyla birlikte çevrimiçi güvenliğimiz sorgulanır hale gelmiştir. Hemen her türlü bilginin paylaşıldığı veya saklandığı dijital ortamlar saldırganların hedefi olmuş ve siber saldırılar büyük bir tehdit haline gelmiştir. Bu tehditler arasında en tehlikelilerden biri zararlı yazılımlardır. Zararlı yazılımlar, siber saldırganlar tarafından izinsiz ve tehlikeli işlemler gerçekleştirmek için programlanmış yazılımlardır. Bu yazılımlar maliyeti yüksek saldırılar gerçekleştirebilmektedir ve bu nedenle tespit edilmeleri büyük bir önem kazanmaktadır. Tespit etmek için ilk adım zararlı yazılımların doğasını anlamaktır. Statik ve dinamik analiz adı verilen iki farklı analiz yöntemi aracılığıyla zararlı yazılımlar incelenip ayırt edici özellikler veya örüntüler elde etmek mümkündür. Dinamik analiz gerçek zamanlı bir incelemeyi gerektirir ve bu nedenle zaman ve kaynak ihtiyacı daha fazladır. Statik analiz ise yazılımların kaynak kodlarına erişip bunlar üzerinde özellik çıkarımı yapmayı hedeflemektedir. Bu tez çalışması kapsamında statik analizden yararlanılarak yazılımların işlem kodu dizilerine ulaşılmış ve bu diziler çizgelere dönüştürülmüştür. Çizgeler üzerinde yapılan incelemeler sonucunda düğümlerin derecelerini temel alan bir tespit yöntemi önerilmiştir. Önerilen yöntem ZAYÇAT olarak isimlendirilmiştir. ZAYÇAT, %98'e varan bir tespit oranına sahiptir ve paketli zararlı yazılımları paketlerini açmaya ihtiyaç duymadan tespit edebilmektedir."
+        },
+        {
+            "title": "Bilişim sistemlerinde akıllı olay analizi ve yönetimi",
+            "student": "Atahan DUMAN",
+            "advisor": "İbrahim SOĞUKPINAR",
+            "year": "2021",
+            "language": "Türkçe",
+            "type": "Yüksek Lisans Tezi",
+            "abstract": "Bilişim sistemleri ve uygulamaları hayatın her aşamasında vazgeçilmez hizmetler sunarak faaliyetlerimizi daha etkin ve verimli olarak gerçekleştirmemizi sağlamaktadır. Günümüzde bilgi teknolojileri sistemleri birçok alarm ve olay kayıtları üretmektedir. Üretilen bu kayıtlar çoğu zaman birbirleriyle bir ilişkiye sahiptir ve bu ilişki doğru bir şekilde yakalandığı zaman kurumları zarara uğratacak birçok kesinti henüz oluşmadan engellenebilecektir. Örneğin bir sunucunun disk G/Ç hızında ortaya gelen artış ya da sorun o sunucu üzerinde çalışan iş yazılımlarının yavaşlamasına bu yavaşlıkta farklı birtakım sonuçlara neden olabilecektir. İşte bir kurumun tüm olay kayıtlarını doğru bir şekilde analiz ederek yönetmesi, oluşan kayıtların belirli zaman dilimlerinde ve belirli kurallara bağlı olarak analizlerini kural bazlı yapmak ortaya çıkan milyonlarca alarmın verimli ve etkin bir şekilde yönetilmesini sağlayacaktır. Ayrıca olayların birbirleriyle ilişkilerini çıkartarak olası problemlerin önlenmesi mümkün olabilecektir. BT sistemlerinde meydana gelen olaylar bir çeşit ayak izi özelliği taşımaktadır. Söz konusu olayların kaydının tutulması da hayati önem taşımakta ve gerektiğinde bu olay kayıtlarının analizi yapılarak sistemlerin verimliliği, zararlı birtakım girişimler, sistem arıza eğilimi vs. gibi istenmeyen durumların anlaşılarak gerekli önlemlerin alınması ile olası kayıpların önlenmesi sağlanabilmektedir. Bu çalışmada bilişim sistemlerinde olay kaydı analizi yaparak sistemlerde arıza tahmini için geliştirilen model açıklanarak elde edilen deneysel sonuçlar verilmiştir."
+        },
+        {
+            "title": "Karma öznitelik kullanarak yazılım davranışlarının modellenmesi ve tespiti",
+            "student": "Mert NAR",
+            "advisor": "İbrahim SOĞUKPINAR",
+            "year": "2020",
+            "language": "Türkçe",
+            "type": "Yüksek Lisans Tezi",
+            "abstract": "Zararlı yazılımlar sahip oldukları yeteneklerden ötürü bilgisayar ve sistemlere büyük tehlike oluşturmaktadır. Etkin tespit sistemlerinin gelişmesinden aynı şekilde etkilenerek daha tehlikeli ve donanımlı hale gelmektedirler. Bu kedi-fare oyununda savunmacıların en etkin silahı analiz araçlarıdır. Otomatik bir tespit sistemi geliştirmek için de zararlı yazılımlar iyi analiz edilmeli ve gelişim meyilleri doğru tespit edilmelidir. Zararlı yazılımların çalıştığı bilgisayarda yarattığı etkiler ve kod yapısı ayrıntılı incelenmeli ve öyle önlem alınmalıdır. Analiz çalışmaları en genel manada 2'ye ayrılmaktadır; durağan ve dinamik analiz. Durağan analizin temelinde yazılımın kod ve dosya yapısını, çalıştırmadan incelemektir. Dinamik analizin altında yatan felsefe ise zararlının çalışma anı davranışlarını gözlemlemek ve yarattığı etkileri ortaya çıkarmaktır. Her iki analiz yaklaşımının üstünlükleri ve zayıflıkları vardır. Birbirlerinin yerlerine koyulmasının imkânsız olmasının sebebi, her analiz tekniğinin zararlı yazılımlara farklı bir açıdan inceleme yeteneği getirmesidir. Buna karşıt olarak zararlı yazılımlar analiz tekniklerinden kaçınmak için çeşitli taktikler geliştirmişlerdir. Durağan ve dinamik analiz yöntemlerini ve çalışma tekniklerini iyi bilen saldırganlar bu yöntemleri atlatmak ya da bu analizler altında gerçek niyetlerini gizlemek adına zararlı yazılım oluştururken uyguladıkları taktikler vardır. Zararlı yazılımları tespit etmek için, var olan yöntemleri tekrarlamak yerine, onları engelleyici taktikleri ve teknikleri iyi bilmek ve önlem almak gerekmektedir. Bu çalışmada zararlı yazılım yapısı ve davranış eğilimleri incelenmiştir. Zararlı yazılımların uyguladıkları saklanma, gizlenme ve analizlerden kaçınma taktikleri ayrıntılı olarak araştırılmış ve ele alınmıştır. Bu bilgi ve tecrübeler ışığında zararlı yazılım tespit sistemi önerilmiştir. Önerilen tespit sistemi, zararlı yazılımın hem davranış hem kod yapısı bilgisini kullanarak Markov zinciri yöntemi ile istatistiksel bir anlam çıkarmaktadır. Daha sonra derin öğrenme teknikleri ile temellendirilmiş model melez veri kaynağı ile eğitilmiş ve tespit ortamı hazırlanmıştır. Yaptığımız testler sonucunda önerilen tespit yöntemi %96,8'lik doğruluk göstermiştir."
+        },
+        {
+            "title": "Gelişmiş sosyal mühendislik saldırıları analizi ve tespiti",
+            "student": "Şeydanur AHİ",
+            "advisor": "İbrahim SOĞUKPINAR",
+            "year": "2020",
+            "language": "Türkçe",
+            "type": "Yüksek Lisans Tezi",
+            "abstract": "Sosyal mühendislik teknolojiyi kullanarak ya da teknolojiyi kullanmadan insanlardan bilgi edinme (aldatma) sanatıdır. Günümüzde karşı karşıya olduğumuz saldırıların çok büyük bir kısmı insan kaynaklıdır ve aynı şekilde sistemleri değil, onları kullanan insanları hedef almaktadır. Güvenlik zincirindeki en zayıf halka olan insan, farklı zamanlarda farklı davranışlar sergilemesinden dolayı güvenlik sürecinde çeşitli zafiyetler gösterebilmektedir. Kimlik avı teknik olarak tüketicilerin finansal veya kişisel bilgilerini ele geçirmek için oluşturulmuş bir tür sosyal mühendislik saldırısıdır. Kimlik avı, bugün e-ticaret dünyasının karşılaştığı en büyük zorluklardan biridir. Kimlik avı saldırıları yüzünden birçok şirket ve birey milyarlarca dolar kaybetmektedir. Kimlik avı saldırılarının bu küresel etkisi artmaya devam edecektir ve bu nedenle tehditleri azaltmak için daha etkili kimlik avı algılama tekniklerinin geliştirilmesi gerekmektedir. Bu çalışmada, Sosyal Mühendislik teknik ve taktiklerinin çeşitli biçimlerini ve sosyal mühendislerin insan güvenlik açıklarından nasıl yararlandıklarını, bu tür saldırılara karşı alınacak önlemlerle ilgili bazı yolları tartışmakta ve bu tür saldırıları önlemek için bilinçli olmanın önemi vurgulanmış ayrıca kimlik avı e-posta saldırılarına karşı derin öğrenme modelleri kullanılarak oluşturulan bir tespit yöntemi önerilmiştir. Önerilen yöntemde gelen e-posta iletilerinin başlık ve gövde bölümlerinden elde edilen özellikler kullanılarak çeşitli derin öğrenme modelleri eğitilmiştir. Yapılan testler sonucunda kimlik avı saldırılarına karşı önerilen bu tespit yöntemi %96,84'lük bir başarı oranı elde edilmiştir."
+        },
+        {
+            "title": "Ağ bağlantılı veriler için gözetimsiz ikili öznitelik oluşturma yöntemi",
+            "student": "Arzu KAKIŞIM",
+            "advisor": "İbrahim SOĞUKPINAR",
+            "year": "2019",
+            "language": "Türkçe",
+            "type": "Doktora Tezi",
+            "abstract": "Ağ verileri, ağ nesnelerinden ve bağlantılardan oluşan verilerdir. Ağ nesneleri, yüksek boyutlu özniteliklerle ve bu nesneler arasındaki ilişkileri gösteren bağlarla karakterize edilir. Bununla birlikte, geleneksel öznitelik seçimi ve öznitelik çıkarma yöntemleri, yalnızca bu ağlara ait öznitelik bilgisini dikkate almaktadır. Bu nedenle, bu yöntemler ağa ait bağlantı bilgisini göz ardı etmektedir. Bu tezde, ağ verilerine ait bağlantı ve öznitelik bilgisi birlikte kullanılarak, ağ verileri için yeni bir öznitelik çıkarım yöntemi geliştirilmiştir. Ağın bağlantı bilgisinden yararlanarak her ağ nesnesi için öznitelikleri yeniden yapılandıran bir denetimsiz ikili özellik oluşturma yöntemi (NetBFC) geliştirilmiştir. Ağdaki benzer nesneleri birbirleri ile ilişkilendirerek, yöntemimiz aynı grupta olma olasılığı yüksek nesneler arasındaki benzerlikleri artırır. Sunulan yöntem, ağa bağlı verilerin seyrekliğinden kaynaklanan zorluğun üstesinden gelmek için nesneleri, kendisine benzerlik gösteren nesneler ile gruplandırarak ve bu grup içerisinde sıklıkla gözlemlenen nitelikler ile ilişkilendirerek her bir nesne için yerel öznitelik zenginleştirmesini ve yerel öznitelik seçimini mümkün kılar. Ek olarak, bu yöntem, kümeleme algoritmalarının performansını düşüren alakasız ve gereksiz nitelikleri ortadan kaldırmak için bir öznitelik eleme aşaması uygular. Gerçek dünyadaki verileri üzerinde gerçeklenen deneyler sonucunda, NetBFC'nin temel yöntemlere kıyasla daha iyi performans sağladığı gözlemlenmiştir."
+        }
+    ],
+
+
+
+
+
+
+
+    "Contact.Title": "İletişim"
+}

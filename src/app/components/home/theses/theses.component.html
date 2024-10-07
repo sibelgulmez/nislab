@@ -1,0 +1,55 @@
+<section class="section theses" id='theses'>
+    <div class="container">
+        <div class="section-box">
+            <div class="">
+                <h3 class="section-title">
+                    {{"theses.Title" | translate}}
+                </h3>
+                <p>{{"theses.Explanation" | translate}}</p>
+            </div>
+            <div class="mt-5">
+                <div class="row p-0">
+
+                    <div *ngFor='let thesis of "theses.List" | translate; let i = index'
+                     class="col-12 col-md-6 col-lg-6 col-xl-4 theses-col" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="theses-box">
+                            <div class="row w-100 text-left m-0 p-0">
+                                <div class="col-6 p-0">
+                                    <img src='assets/icons/thesis.png' width="70">
+                                </div>
+                                <div class="col-6 d-flex p-0 justify-content-end">
+                                    <p>{{thesis.year}} </p>
+                                </div>
+                                <h5 class="theses-title mt-4">{{thesis.title}}</h5>
+                                <table class="theses-type">
+                                    <tbody>
+                                        <tr>
+                                            <td><b>{{ "ThesisPreparedBy" | translate}}:</b></td>
+                                            <td>{{thesis.student}}</td>
+                                        </tr>
+                                        <tr>
+                                            <td><b>{{ "ThesisAdvisor" | translate}}:</b></td>
+                                            <td>{{thesis.advisor}}</td>
+                                        </tr>
+                                        <tr>    
+                                            <td><b>{{ "ThesisType" | translate}}:</b></td>
+                                            <td>{{thesis.type}}</td>
+                                        </tr>
+                                        <tr>
+                                            <td><b>{{ "ThesisLang" | translate}}:</b></td>
+                                            <td>{{thesis.language}}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <p class="theses-description">
+                                    <br>
+                                    <b>{{"ThesisAbstract" | translate}}: </b> {{thesis.abstract}}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

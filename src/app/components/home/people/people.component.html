@@ -1,0 +1,36 @@
+<section class="section people" id='people'>
+    <div class="container">
+        <div class="section-box">
+            <div class="about-title mb-5" data-aos="fade-up" data-aos-duration="1000">
+                <h3 class="e-font section-title">
+                    {{"People.Title" | translate}}
+                </h3>
+            </div>
+            <div class="people-tabs" data-aos="fade-up" data-aos-duration="1000">
+              <ul ngbNav #nav="ngbNav" [(activeId)]="active" orientation="vertical" class="nav-tabs people-tabs">
+                <li *ngFor='let person of "People.List" | translate; let i = index' [title]="person.Tab" [ngbNavItem]="i">
+                  <a ngbNavLink>{{person.tab}}</a>
+                  <ng-template ngbNavContent>
+
+                    <div *ngIf="person.tab !== 'Former Researchers' && person.tab !== 'Eski Çalışanlar'">
+                      <h4 class='title-tab-content'>{{person.Name}}</h4>
+                      <h5 class="person-role">{{person.Role}}</h5>
+                      <img class="rounded" width="200" height="auto" src={{person.Image}} alt={{person.Name}}>
+                      <br><br>
+                      <p class="person-specializations"><b><u>{{"Specializations" | translate}}:</u></b> {{person.Specializations}}</p>
+                      <div class="person-contact"><a href={{person.WebPage}}>▹ {{"webpage" |translate}}</a></div>
+                      <div class="person-contact"><a href={{person.EmailLink}}>▹ {{"email" |translate}}: {{person.Email}}</a></div>
+                      <div class="person-contact"><a href={{person.PhoneLink}}>▹ {{"phone" |translate}}: {{person.Phone}}</a></div>
+                    </div>
+                    <div *ngIf="person.tab === 'Former Researchers' || person.tab === 'Eski Çalışanlar'"> 
+                      <p *ngFor='let former of person.Formers; let i = index' class="person-description"[innerHTML]="former | translate"></p>
+                    </div>
+                  </ng-template>
+                </li>
+              </ul>
+              <div [ngbNavOutlet]="nav" class="mt-2"></div>
+            </div>
+
+        </div>
+    </div>
+</section>

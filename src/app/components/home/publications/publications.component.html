@@ -1,0 +1,24 @@
+<section class="section publications" id='publications'>
+    <div class="container">
+        <div class="section-box">
+            <div class="about-title mb-5" data-aos="fade-up" data-aos-duration="1000">
+                <h3 class="e-font section-title">
+                    {{"publications.Title" | translate}}
+                </h3>
+                <p>{{"publications.Explanation" | translate}}</p>
+            </div>
+            <div class="publications-tabs" data-aos="fade-up" data-aos-duration="1000">
+              <ul ngbNav #nav="ngbNav" [(activeId)]="active" orientation="vertical" class="nav-tabs publications-tabs">
+                <li *ngFor='let publication of "publications.List" | translate; let i = index' [title]="publication.Tab" [ngbNavItem]="i">
+                  <a ngbNavLink>{{publication.tab}}</a>
+                  <ng-template ngbNavContent>
+                    <p *ngFor='let paper of publication.papers; let i = index' class="publication-description"[innerHTML]="paper | translate"></p>
+                  </ng-template>
+                </li>
+              </ul>
+              <div [ngbNavOutlet]="nav" class="mt-2"></div>
+            </div>
+
+        </div>
+    </div>
+</section>

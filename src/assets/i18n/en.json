@@ -1,0 +1,268 @@
+{
+    "NislabLong": "Network and Information Security Laboratory",
+    "GetInTouch": "Get In Touch",
+    "Specializations": "Specializations",
+    "Description": "This is the webpage of Network and Information Security Laboratory in Gebze Technical University.",
+    "ProjectType": "Project Type",
+    "ProjectSupporter": "Supporter",
+    "ThesisType": "Thesis Type",
+    "ThesisPreparedBy": "Prepared by",
+    "ThesisAdvisor": "Advisor",
+    "ThesisLang": "Language",
+    "ThesisAbstract": "Abstract",
+    "webpage": "Webpage",
+    "email": "E-mail",
+    "phone": "Phone",
+    "address": "Address",
+    "gtuaddress": "Gebze Technical University, Computer Engineering Building. 1st Floor, No: 122. Street 2254. Cumhuriyet District. Gebze/Kocaeli, Turkey.",
+
+
+    "Header.Item1" : "About",
+    "Header.Item2" : "Research Areas",
+    "Header.Item3" : "People",
+    "Header.Item4" : "Projects",
+    "Header.Item5" : "Publications",
+    "Header.Item6" : "Theses",
+    "Header.Item7" : "Contact",
+
+    "about.Title": "About",
+    "about.Paragraphs": [
+        "The aims of the Network and Information Security Laboratory are:"
+    ],
+    "about.Missions1": "To produce solutions to up-to-date network and information security problems and to apply them",
+    "about.Missions2": "To train undergraduate students in the field of network and information security",
+    "about.Missions3": "To support the studies of graduate students in the field of network and information security",
+    "about.Missions4": "To meet the needs of information and resource of undergraduate graduation projects and graduate thesis studies in the field of cyber security",
+    "about.Missions5": "Carrying out research projects in the field of cyber security",
+
+    "ResearchAreas.Title": "Research Areas",
+    "ResearchAreas.Info": "Research studies in Nislab are carried out on the following topics:",
+    "ResearchAreas.Area1": "Information security management and applications",
+    "ResearchAreas.Area2": "Security studies in cloud computing",
+    "ResearchAreas.Area3": "Security applications in social networks",
+    "ResearchAreas.Area4": "Security applications in IoT",
+    "ResearchAreas.Area5": "Digital signature research and applications",
+    "ResearchAreas.Area6": "Security applications in wired and wireless networks",
+    "ResearchAreas.Area7": "Biometric security applications",
+    "ResearchAreas.Area8": "Malware analysis and detection",
+    "ResearchAreas.Area9": "Intrusion detection",
+    "ResearchAreas.Area10": "Vulnerability scanning applications",
+    "ResearchAreas.Area11": "Cryptology-based security applications",
+
+    
+
+
+    "People.Title": "People",
+    "People.List": [{
+            "tab": "Prof. Dr. Ibrahim SOGUKPINAR",
+            "Name": "Prof. Dr. Ibrahim SOGUKPINAR",
+            "Role": "Supervisor",
+            "Specializations": "Data and Network Security, Cyber Security, Computer Networks, IT Applications",
+            "WebPage": "https://www.gtu.edu.tr/en/personel/98/1041/display.aspx",
+            "EmailLink": "mailto:ispinar@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052211",
+            "Email": "ispinar@gtu.edu.tr",
+            "Phone": "+90 262 605 22 11",
+            "Image": "/assets/images/ispinar.png"
+        },
+        {
+            "tab": "Res. Asst. Neslihan Bengisu COLAK",
+            "Name": "Res. Asst. Neslihan Bengisu COLAK",
+            "Role": "Master Student",
+            "Specializations": "Cyber Security, Data and Network Security",
+            "WebPage": "https://www.gtu.edu.tr/en/personel/98/63486814/display.aspx",
+            "EmailLink": "mailto:n.colak2023@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052232",
+            "Email": "n.colak2023@gtu.edu.tr",
+            "Phone": "+90 262 605 22 32",
+            "Image": "/assets/images/unknown.jpg"
+        },
+        {
+            "tab": "Res. Asst. Sibel GULMEZ",
+            "Name": "Res. Asst. Sibel GULMEZ",
+            "Role": "PhD Candidate",
+            "Specializations": "Cyber Security, Cod Analysis, Malware Analysis, Malware Detection, Ransomware Detection",
+            "WebPage": "https://www.gtu.edu.tr/en/personel/98/57264126/display.aspx",
+            "EmailLink": "mailto:sgulmez2018@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052232",
+            "Email": "sgulmez2018@gtu.edu.tr",
+            "Phone": "+90 262 605 22 32",
+            "Image": "/assets/images/sibelgulmez.jpeg"
+        },
+        {
+            "tab": "Res. Asst.  Seydanur AHI DUMAN",
+            "Name": "Res. Asst.  Seydanur AHI DUMAN",
+            "Role": "PhD Candidate",
+            "Specializations": "Cyber Security, Data and Network Security, Malware, Deep Learning",
+            "WebPage": "https://www.gtu.edu.tr/en/personel/2294/67473847/display.aspx",
+            "EmailLink": "mailto:seydanurahi@gtu.edu.tr",
+            "PhoneLink": "tel:+902626052426",
+            "Email": "seydanurahi@gtu.edu.tr",
+            "Phone": "+90 262 605 24 26",
+            "Image": "/assets/images/seydanurahiduman.jpg"
+        },
+        {
+            "tab": "Former Researchers",
+            "Formers": [
+                "Res. Asst. Cem AYAR",
+                "Res. Asst. Mert NAR",
+                "Res. Asst. Arzu KAKISIM",
+                "Res. Asst. Necmettin CARKACI",
+                "Dr. Hidayet TAKCI",
+                "Res. Asst. Turker AKYUZ",
+                "Res. Asst. Alper UGUR",
+                "Res. Asst. Rahim KARABAG",
+                "MSc. Student Fatma OZDEN AKTAS"
+            ]
+        }
+    ],
+
+
+
+
+    "Projects.Title": "Projects",
+    "Projects.List": [
+        {
+            "Title": "Developing Multipurpose Malware Detection and Prevention System",
+            "Description": "Developing a novel malware detection method and implementing it as a software product. This project focuses on metamorphic malware and ransomware.",
+            "Dates": "October 2022 - February 2025",
+            "Type": "Scientific Research Project (ID: 2022-A-113-03)",
+            "Supporter": "Gebze Technical University",
+            "link": "/projects/ransomware",
+            "Keywords": ["ransomware", "metamorphic malware", "malware detection", "antivirus"]
+        },
+        {
+            "Title": "Developing High Performance and Real time Method for Malware Detection and Implementation for Different Platforms",
+            "Description": "Developing a novel metamorphic malware detection method and implementing it as a software product.",
+            "Dates": "October 2017 - October 2019",
+            "Type": "TUBITAK 1003 (ID: 116E539)",
+            "Supporter": "TUBITAK",
+            "link": "/projects/metamorphic",
+            "Keywords": ["metamorphic malware", "malware detection", "antivirus"]
+        },
+        {
+            "Title": "Hi-AuthMe: Designing An Electronic Signature with Hierarchical Authorization Model and Implementation of The Model on Smart Card Systems",
+            "Description": "Designing an electronic signature with hierarchical authorization model: Hi-AuthME.",
+            "Dates": "November 2008 - November 2010",
+            "Type": "TUBITAK 1001 (ID: 108E132)",
+            "Supporter": "TUBITAK",
+            "link": "/projects/ransomware",
+            "Keywords": ["Hi-AuthME", "electronic signature", "smart card", "authorization"]
+        },
+        {
+            "Title": "Designing Information Security Management System Which is Concordant to the International Standards and Application at GIT as a Case Study",
+            "Description": "Designing a practical and easy Institutional Information Security management System that is suitable to the standards of ISO/IEC 17799 and ISO/IEC 27001.",
+            "Dates": "2007 - 2009",
+            "Type": "Scientific Research Project (ID: 2007-A-19)",
+            "Supporter": "Gebze Technical University",
+            "link": "/projects/gitisms",
+            "Keywords": ["information security management", "iso standards", "isms"]
+        }
+    ],
+
+
+    "publications.Title": "Publications",
+    "publications.Explanation": "Academic articles published in the last 5 years are listed below.",
+    "publications.List": [
+        {
+            "tab": "2024",
+            "papers": [
+                "Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2024). XRan: Explainable deep learning-based ransomware detection using dynamic analysis. Computers & Security, 139, 103703."
+            ]
+        },
+        {
+            "tab": "2023",
+            "papers": [
+                "Gulmez, S., Duman, A., Duman, S. A., & Sogukpinar, I. (2023, September). Log Mining-based Online Failure Prediction in Client-Server Architecture. In 2023 8th International Conference on Computer Science and Engineering (UBMK) (pp. 492-497). IEEE.",
+                "Gulmez, S., Kakisim, A. G., & Sogukpinar, I. (2023, May). Analysis of the Dynamic Features on Ransomware Detection Using Deep Learning-based Methods. In 2023 11th International Symposium on Digital Forensics and Security (ISDFS) (pp. 1-6). IEEE."
+            ]
+        },
+        {
+            "tab": "2022",
+            "papers": [
+                "Kakisim, A. G., Gulmez, S., & Sogukpinar, I. (2022). Sequential opcode embedding-based malware detection method. Computers & Electrical Engineering, 98, 107703."
+            ]
+        },
+        {
+            "tab": "2021",
+            "papers": [
+                "Gülmez, S., & Sogukpinar, I. (2021, June). Graph-based malware detection using opcode sequences. In 2021 9th International Symposium on Digital Forensics and Security (ISDFS) (pp. 1-5). IEEE."
+            ]
+        },
+        {
+            "tab": "2020",
+            "papers": [
+                "Şeydanur, A. H. İ., & SOĞUKPINAR, İ. (2020). Derin Öğrenme Modelleri ile Kimlik Avı E-posta Tespiti. Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi, 13(2), 17-31.",
+                "Kakisim, A. G., Nar, M., & Sogukpinar, I. (2020). Metamorphic malware identification using engine-specific patterns based on co-opcode graphs. Computer Standards & Interfaces, 71, 103443."
+            ]
+        },
+        {
+            "tab": "2019",
+            "papers": [
+                "Mert, N. A. R., & SOĞUKPINAR, İ. (2019). Melez Özelliklerin Modellenmesi ile Zararlı Yazılım Tespiti. Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi, 12(2), 50-63.",
+                "Nar, M., Kakisim, A. G., Yavuz, M. N., & Soğukpinar, İ. (2019, September). Analysis and comparison of disassemblers for opcode based malware analysis. In 2019 4th International Conference on Computer Science and Engineering (UBMK) (pp. 17-22). IEEE.",
+                "Kakisim, A. G., & Sogukpinar, I. (2019). Unsupervised binary feature construction method for networked data. Expert Systems with Applications, 121, 256-265.",
+                "Kakisim, A. G., Nar, M., Carkaci, N., & Sogukpinar, I. (2019). Analysis and evaluation of dynamic feature-based malware detection methods. In Innovative Security Solutions for Information Technology and Communications: 11th International Conference, SecITC 2018, Bucharest, Romania, November 8–9, 2018, Revised Selected Papers 11 (pp. 247-258). Springer International Publishing."
+            ]
+        }
+    ],
+  
+    
+    "theses.Title": "Theses",
+    "theses.Explanation": "Theses written in the last 5 years are listed below.",
+    "theses.List": [
+        {
+            "title": "Graph-based malware detection using opcode analysis",
+            "student": "Sibel GULMEZ",
+            "advisor": "Ibrahim SOGUKPINAR",
+            "year": "2021",
+            "language": "Turkish",
+            "type": "Master's Thesis",
+            "abstract": "With the rapid advancement of the technology and the increase in virtualization, the online security has become questionable. Digital platforms where all kind of information are shared, has become the target of the attackers and the cyber attacks has become a major threat. Malware is one of the most dangerous threats among them. Malware is a software which is written by a cyber attacker to perform unauthorized and dangerous operations. These softwares might perform costly attacks and therefore to detect them is becoming crucial. To detect them, the first step would be to understand the nature of the malware. Through two different analysis method called static and dynamic analysis, it is possible to examine malware and extract distinctive features and patterns. Dynamic analysis requires a real-time analysis and therefore it consumes more time and resource. Static analysis aims to access the source codes of the softwares and feature extracting through them. In this thesis research, opcode sequences of the softwares' are obtained through static analysis and then transformed to the graphs. As a result of the examination made on these graphs, a detection method that based on the degrees of nodes' is proposed. The proposed method is named ZAYCAT. ZAYCAT has a detection rate of up to %98 and it is able to detect packed malware without the need of unpacking."
+        },
+        {
+            "title": "Smart event analysis and management in information systems",
+            "student": "Atahan DUMAN",
+            "advisor": "Ibrahim SOGUKPINAR",
+            "year": "2021",
+            "language": "Turkish",
+            "type": "Master's Thesis",
+            "abstract": "Information systems and applications provide indispensable services at every stage of life, enabling us to carry out our activities more effectively and efficiently. Today, information technology systems produce many alarm and event records. These produced records often have a relationship with each other, and when this relationship is captured correctly, many interruptions that will harm institutions can be prevented before they occur. For example, an increase in the disk I/O speed of a server or a problem may cause the business software running on that server to slow down and cause different results in this slowness. Here, an institution's accurate analysis and management of all event records, and rule-based analysis of the resulting records in certain time periods and depending on certain rules will ensure efficient and effective management of millions of alarms. In addition, it will be possible to prevent possible problems by removing the relationships between events. Events that occur in IT systems are a kind of footprint. It is also vital to keep a record of the events in question, and when necessary, these event records can be analyzed to analyze the efficiency of the systems, harmful interferences, system failure tendency, etc. By understanding the undesirable situations such as taking the necessary precautions, possible losses can be prevented. In this study, the model developed for fault prediction in systems by performing event log analysis in information systems is explained and the experimental results obtained are given."
+        },
+        {
+            "title": "Software behavior modeling and detection by using hybrid features",
+            "student": "Mert NAR",
+            "advisor": "Ibrahim SOGUKPINAR",
+            "year": "2020",
+            "language": "Turkish",
+            "type": "Master's Thesis",
+            "abstract": "Malware poses a great danger to computers and systems due to their capabilities. They are also affected by the development of effective detection systems and become more dangerous and equipped. Defenders are the most effective weapon analysis tools in this cat and mouse game. In order to develop an automated detection system, malware should be well analyzed, and the development tendencies should be detected correctly. The effects of malicious software on the computer and code structure should be examined in detail and such precautions should be taken. Analysis studies are divided into 2 in the most general sense; static and dynamic analysis. The basis of static analysis is to examine the code and file structure of the software without running it. The underlying philosophy of dynamic analysis is to observe the working moment behavior of the pest and to reveal its effects. Both analysis approaches have advantages and weaknesses. The reason why it is impossible to replace each other is that each analysis technique brings the ability to examine malware from a different angle. In contrast, malware has developed several tactics to avoid analysis techniques. Attackers who are familiar with static and dynamic methods of analysis and work techniques have tactics to circumvent these methods or to create malware to conceal their true intentions. To detect malware, rather than repeating the existing methods, tactics and techniques to prevent them should be well known and taken precautions. In this study, malware structure and behavioral trends are examined. The hiding, hiding, and avoidance analysis tactics applied by malware have been investigated and discussed in detail. In the light of this knowledge and experience, malware detection system has been proposed. The proposed detection system makes a statistical meaning with the Markov chain method using both the behavior and code structure information of the malware. Then, model based on deep learning techniques was trained with hybrid data source and detection environment was prepared. As a result of our tests, the recommended detection method showed an accuracy of 96.8%."
+        },
+        {
+            "title": "Analysis and detection of advanced social engineering attacks",
+            "student": "Seydanur AHI",
+            "advisor": "Ibrahim SOGUKPINAR",
+            "year": "2020",
+            "language": "Turkish",
+            "type": "Master's Thesis",
+            "abstract": "Social engineering is the art of getting information (deception) from people with using technology or without using technology. The vast majority of the attacks facing today are human origin, and likewise, these attacks target computer users. Human being who is the weakest link in the security chain shows various weaknesses in the security process, due to human being's variable behavior in different times. Phishing that is a kind of social engineering attack is technically created to capture consumers' financial or personal information. Phishing is the one of the biggest challenges for the e commerce world. Many companies and individuals lose billions of dollars because of phishing attacks. This global impact of phishing attacks will continue to increase, therefore, more effective phishing detection techniques need to be developed to reduce threats. In this regard, various forms of Social Engineering techniques and tactics and how social engineers benefited from human security deficits, to discuss information about the measures to be taken against such attacks, and to identify such attacks, a detection method was proposed. Various deep learning models were trained using the features obtained from the head and body parts of incoming e-mails in the proposed method. As a result of the tests, a 96.84% success rate was achieved with this detection method proposed against phishing attacks."
+        },
+        {
+            "title": "Unsupervised binary feature construction method for networked data",
+            "student": "Arzu KAKISIM",
+            "advisor": "Ibrahim SOGUKPINAR",
+            "year": "2019",
+            "language": "Turkish",
+            "type": "Doctoral Thesis",
+            "abstract": "Networked data is data composed of network objects and links. Network objects are characterized by high dimensional attributes and by links indicating the relationships among these objects. However, traditional feature selection and feature extraction methods consider only attribute information, thus ignoring link information. In the presented work, we propose a new unsupervised binary feature construction method (NetBFC) for networked data that reconstructs attributes for each object by exploiting link information. By exploring similar objects in the network and associating them, our method increases the similarities between objects with high probability of being in the same group. The proposed method enables local attribute enrichment and local attribute selection for each object by aggregating the attributes of similar objects in order to deal with the sparsity of networked data. In addition, this method applies an attribute elimination phase to eliminate irrelevant and redundant attributes which decrease the performance of clustering algorithms. Experimental results on real-world data sets indicate that NetBFC significantly achieves better performance when compared to baseline methods."
+        }
+    ],
+
+
+
+
+
+
+
+    "Contact.Title": "Contact"
+}

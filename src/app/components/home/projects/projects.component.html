@@ -1,0 +1,45 @@
+<section class="section projects" id='projects'>
+    <div class="container">
+        <div class="section-box">
+            <div class="">
+                <h3 class="section-title">
+                    {{"Projects.Title" | translate}}
+                </h3>
+            </div>
+            <div class="mt-5">
+                <div class="row p-0">
+                    <!-- add this below for a click event... (click)="redirect(project['link'], $event)"-->
+                    <div *ngFor='let project of "Projects.List" | translate; let i = index'
+                     
+                     class="col-12 col-md-6 col-lg-6 col-xl-4 projects-col" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="projects-box">
+                            <div class="row w-100 text-left m-0 p-0">
+                                <div class="col-6 p-0">
+                                    <img src='assets/icons/project.png' width="70">
+                                </div>
+                                <div class="col-6 d-flex p-0 justify-content-end">
+                                    <p>{{project.Dates}} </p>
+                                </div>
+                                <h5 class="projects-title mt-4">{{project.Title}}</h5>
+                                <p class="projects-description">
+                                    {{project.Description}}
+                                </p>
+                                <p class="projects-type">
+                                    <u>{{ "ProjectType" | translate}}:</u> {{project.Type}}<br>
+                                    <u>{{ "ProjectSupporter" | translate}}:</u> {{project.Supporter}}
+                                </p>
+                            </div>
+                            <div>
+                                <ul class="projects-skills">
+                                    <li *ngFor='let keyword of project.Keywords'>
+                                      <span class="underline">{{keyword}}</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
